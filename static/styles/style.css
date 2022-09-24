@@ -1047,6 +1047,12 @@ a {
   height: 64%;
 }
 
+.room__login__message {
+  background: var(--color-dark-light);
+  padding: 0.5rem 1.5rem;
+  border-radius: 0.7rem;
+}
+
 .threads h3 {
   text-transform: uppercase;
   font-weight: 500;
